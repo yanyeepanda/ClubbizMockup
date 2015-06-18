@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo {
+	float:left;
+	font: 800 70px/80px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: -2px;
+	margin: 30px 0;
+}
+
+#signUp{
+	float:right;
+	margin-left:50px;
+}
+
+#login{
+	float:right;
+	margin-left:50px;
+}
+
+.club-box{
+	float:left;
+	width:265px;
+	height:210px;
+	margin:10px 10px;
+}
+
+.club-box-img{
+	float:left;
+	width:265px;
+	height:180px;
+}
+
+.cleaner { clear: both }
+
+.float-right{ float:right; }
+
+.float-left{ float:left; }
+
